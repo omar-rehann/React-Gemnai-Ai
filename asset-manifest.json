@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Gemnai-Ai/static/css/main.5e367e25.css",
+    "main.js": "/React-Gemnai-Ai/static/js/main.5f829018.js",
+    "static/media/avatar-04.png": "/React-Gemnai-Ai/static/media/avatar-04.5cde1a1b7dffd9b9f83a.png",
+    "static/media/avatar-02.png": "/React-Gemnai-Ai/static/media/avatar-02.cc9c983a8f12aab07b5f.png",
+    "index.html": "/React-Gemnai-Ai/index.html",
+    "main.5e367e25.css.map": "/React-Gemnai-Ai/static/css/main.5e367e25.css.map",
+    "main.5f829018.js.map": "/React-Gemnai-Ai/static/js/main.5f829018.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e367e25.css",
+    "static/js/main.5f829018.js"
+  ]
+}
