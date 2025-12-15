@@ -1,0 +1,24 @@
+{
+    "candidates": [{
+        "content": {
+            "parts": [{
+                "text": "الحرفان \"يث\" (Yāth) لا يشكلان كلمة قائمة بذاتها في اللغة العربية عادةً. بل هما جزء من جذر كلمة أو جزء من كلمة أكبر.\n\nعلى سبيل المثال:\n\n*   يمكن أن تكون جزءًا من كلمة مثل **\"حديث\"** (حديث، والتي تعني كلام، قصة، أو جديد/عصري).\n*   أو جزءًا من الجذر \"و-ر-ث\" الذي يدل على الإرث، مثل **\"إرث\"** (ميراث، heritage) أو **\"يَرِث\"** (يرث، inherits).\n\nهل تقصد كلمة معينة تحتوي على هذه الأحرف، أم أنك تبحث عن شيء آخر؟"
+            }],
+            "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+    }],
+    "usageMetadata": {
+        "promptTokenCount": 1,
+        "candidatesTokenCount": 152,
+        "totalTokenCount": 1134,
+        "promptTokensDetails": [{
+            "modality": "TEXT",
+            "tokenCount": 1
+        }],
+        "thoughtsTokenCount": 981
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "reo-aZXLEq2RvdIPvKOC-As"
+}
